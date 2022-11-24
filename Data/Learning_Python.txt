@@ -1,0 +1,4 @@
+Python is a computer language that is used to write programs
+python data types are : String, numeral
+python data structures include: dictionaries, lists, variables
+python is sensitive to indentation

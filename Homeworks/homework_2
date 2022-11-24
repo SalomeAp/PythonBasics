@@ -1,0 +1,10 @@
+# Homework #2
+# Lecturer: Akmal Husanov
+# Student: Salome Aptsiauri
+# Date: 10/21/2022
+
+#4-10. Slices: Using one of the programs you wrote in this chapter, add several lines to the end of the program that do the following:
+# • Print the message, The first three items in the list are:. Then use a slice to print the first three items from that program’s list.
+
+Places = ['Japan', 'Alaska', 'New Zealand', 'Austria', 'Switzerland']
+print(places[0:4])
